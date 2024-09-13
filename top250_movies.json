@@ -4,7 +4,7 @@
         "year": 1994,
         "duration": 142,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNDE3ODcxYzMtY2YzZC00NmNlLWJiNDMtZDViZWM2MzIxZDYwXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 22m",
+        "classification": "R",
         "score": 9.3
     },
     {
@@ -12,7 +12,7 @@
         "year": 1972,
         "duration": 175,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BM2MyNjYxNmUtYTAwNi00MTYxLWJmNWYtYzZlODY3ZTk3OTFlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR3,0,140,207_.jpg",
-        "classification": "2h 55m",
+        "classification": "R",
         "score": 9.2
     },
     {
@@ -20,7 +20,7 @@
         "year": 2008,
         "duration": 152,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 32m",
+        "classification": "PG-13",
         "score": 9.0
     },
     {
@@ -28,7 +28,7 @@
         "year": 1974,
         "duration": 202,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMWMwMGQzZTItY2JlNC00OWZiLWIyMDctNDk2ZDQ2YjRjMWQ0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR3,0,140,207_.jpg",
-        "classification": "3h 22m",
+        "classification": "R",
         "score": 9.0
     },
     {
@@ -36,7 +36,7 @@
         "year": 1957,
         "duration": 96,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,4,140,207_.jpg",
-        "classification": "1h 36m",
+        "classification": "Approved",
         "score": 9.0
     },
     {
@@ -44,7 +44,7 @@
         "year": 1993,
         "duration": 195,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "3h 15m",
+        "classification": "R",
         "score": 9.0
     },
     {
@@ -52,7 +52,7 @@
         "year": 2003,
         "duration": 201,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNzA5ZDNlZWMtM2NhNS00NDJjLTk4NDItYTRmY2EwMWZlMTY3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "3h 21m",
+        "classification": "PG-13",
         "score": 9.0
     },
     {
@@ -60,7 +60,7 @@
         "year": 1994,
         "duration": 154,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNGNhMDIzZTUtNTBlZi00MTRlLWFjM2ItYzViMjE3YzI5MjljXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR1,0,140,207_.jpg",
-        "classification": "2h 34m",
+        "classification": "R",
         "score": 8.9
     },
     {
@@ -68,7 +68,7 @@
         "year": 2001,
         "duration": 178,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BN2EyZjM3NzUtNWUzMi00MTgxLWI0NTctMzY4M2VlOTdjZWRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 58m",
+        "classification": "PG-13",
         "score": 8.9
     },
     {
@@ -76,7 +76,7 @@
         "year": 1966,
         "duration": 178,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 58m",
+        "classification": "R",
         "score": 8.8
     },
     {
@@ -84,7 +84,7 @@
         "year": 1994,
         "duration": 142,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNWIwODRlZTUtY2U3ZS00Yzg1LWJhNzYtMmZiYmEyNmU1NjMzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY207_CR2,0,140,207_.jpg",
-        "classification": "2h 22m",
+        "classification": "PG-13",
         "score": 8.8
     },
     {
@@ -92,7 +92,7 @@
         "year": 2002,
         "duration": 179,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZGMxZTdjZmYtMmE2Ni00ZTdkLWI5NTgtNjlmMjBiNzU2MmI5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,5,140,207_.jpg",
-        "classification": "2h 59m",
+        "classification": "PG-13",
         "score": 8.8
     },
     {
@@ -100,7 +100,7 @@
         "year": 1999,
         "duration": 139,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 19m",
+        "classification": "R",
         "score": 8.8
     },
     {
@@ -108,7 +108,7 @@
         "year": 2010,
         "duration": 148,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 28m",
+        "classification": "PG-13",
         "score": 8.8
     },
     {
@@ -116,7 +116,7 @@
         "year": 1980,
         "duration": 124,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYmU1NDRjNDgtMzhiMi00NjZmLTg5NGItZDNiZjU5NTU4OTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,5,140,207_.jpg",
-        "classification": "2h 4m",
+        "classification": "PG",
         "score": 8.7
     },
     {
@@ -124,7 +124,7 @@
         "year": 1999,
         "duration": 136,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 16m",
+        "classification": "R",
         "score": 8.7
     },
     {
@@ -132,7 +132,7 @@
         "year": 1990,
         "duration": 145,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BY2NkZjEzMDgtN2RjYy00YzM1LWI4ZmQtMjIwYjFjNmI3ZGEwXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 25m",
+        "classification": "R",
         "score": 8.7
     },
     {
@@ -140,7 +140,7 @@
         "year": 1975,
         "duration": 133,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZjA0OWVhOTAtYWQxNi00YzNhLWI4ZjYtNjFjZTEyYjJlNDVlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 13m",
+        "classification": "R",
         "score": 8.7
     },
     {
@@ -148,7 +148,7 @@
         "year": 2014,
         "duration": 169,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 49m",
+        "classification": "PG-13",
         "score": 8.7
     },
     {
@@ -156,7 +156,7 @@
         "year": 1995,
         "duration": 127,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,6,140,207_.jpg",
-        "classification": "2h 7m",
+        "classification": "R",
         "score": 8.6
     },
     {
@@ -164,7 +164,7 @@
         "year": 1946,
         "duration": 130,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZjc4NDZhZWMtNGEzYS00ZWU2LThlM2ItNTA0YzQ0OTExMTE2XkEyXkFqcGdeQXVyNjUwMzI2NzU@._V1_QL75_UY207_CR1,0,140,207_.jpg",
-        "classification": "2h 10m",
+        "classification": "PG",
         "score": 8.6
     },
     {
@@ -172,7 +172,7 @@
         "year": 1954,
         "duration": 207,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZjliMWExOTMtZDQ3ZS00NWU3LWIyN2EtMjllNzk3ZTNlYzg4XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
-        "classification": "3h 27m",
+        "classification": "Not Rated",
         "score": 8.6
     },
     {
@@ -180,7 +180,7 @@
         "year": 1991,
         "duration": 118,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNjNhZTk0ZmEtNjJhMi00YzFlLWE1MmEtYzM1M2ZmMGMwMTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "1h 58m",
+        "classification": "R",
         "score": 8.6
     },
     {
@@ -188,7 +188,7 @@
         "year": 1998,
         "duration": 169,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZjhkMDM4MWItZTVjOC00ZDRhLThmYTAtM2I5NzBmNmNlMzI1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_QL75_UY207_CR1,0,140,207_.jpg",
-        "classification": "2h 49m",
+        "classification": "R",
         "score": 8.6
     },
     {
@@ -196,7 +196,7 @@
         "year": 2002,
         "duration": 130,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMGU5OWEwZDItNmNkMC00NzZmLTk1YTctNzVhZTJjM2NlZTVmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "2h 10m",
+        "classification": "R",
         "score": 8.6
     },
     {
@@ -204,7 +204,7 @@
         "year": 1997,
         "duration": 116,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYmJmM2Q4NmMtYThmNC00ZjRlLWEyZmItZTIwOTBlZDQ3NTQ1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 56m",
+        "classification": "PG-13",
         "score": 8.6
     },
     {
@@ -212,7 +212,7 @@
         "year": 1999,
         "duration": 189,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "3h 9m",
+        "classification": "R",
         "score": 8.6
     },
     {
@@ -220,7 +220,7 @@
         "year": 1991,
         "duration": 137,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMGU2NzRmZjUtOGUxYS00ZjdjLWEwZWItY2NlM2JhNjkxNTFmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 17m",
+        "classification": "R",
         "score": 8.6
     },
     {
@@ -228,7 +228,7 @@
         "year": 1977,
         "duration": 121,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOTA5NjhiOTAtZWM0ZC00MWNhLThiMzEtZDFkOTk2OTU1ZDJkXkEyXkFqcGdeQXVyMTA4NDI1NTQx._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "2h 1m",
+        "classification": "PG",
         "score": 8.6
     },
     {
@@ -236,7 +236,7 @@
         "year": 1985,
         "duration": 116,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZmU0M2Y1OGUtZjIxNi00ZjBkLTg1MjgtOWIyNThiZWIwYjRiXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,5,140,207_.jpg",
-        "classification": "1h 56m",
+        "classification": "PG",
         "score": 8.5
     },
     {
@@ -244,7 +244,7 @@
         "year": 2001,
         "duration": 124,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjlmZmI5MDctNDE2YS00YWE0LWE5ZWItZDBhYWQ0NTcxNWRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 4m",
+        "classification": "PG",
         "score": 8.6
     },
     {
@@ -252,7 +252,7 @@
         "year": 2002,
         "duration": 150,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOWRiZDIxZjktMTA1NC00MDQ2LWEzMjUtMTliZmY3NjQ3ODJiXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR5,0,140,207_.jpg",
-        "classification": "2h 30m",
+        "classification": "R",
         "score": 8.5
     },
     {
@@ -260,7 +260,7 @@
         "year": 2019,
         "duration": 132,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYWZjMjk3ZTItODQ2ZC00NTY5LWE0ZDYtZTI3MjcwN2Q5NTVkXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 12m",
+        "classification": "R",
         "score": 8.5
     },
     {
@@ -268,7 +268,7 @@
         "year": 1960,
         "duration": 109,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 49m",
+        "classification": "R",
         "score": 8.5
     },
     {
@@ -276,7 +276,7 @@
         "year": 2000,
         "duration": 155,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMDliMmNhNDEtODUyOS00MjNlLTgxODEtN2U3NzIxMGVkZTA1L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 35m",
+        "classification": "R",
         "score": 8.5
     },
     {
@@ -284,7 +284,7 @@
         "year": 1994,
         "duration": 88,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYTYxNGMyZTYtMjE3MS00MzNjLWFjNmYtMDk3N2FmM2JiM2M1XkEyXkFqcGdeQXVyNjY5NDU4NzI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 28m",
+        "classification": "G",
         "score": 8.5
     },
     {
@@ -292,7 +292,7 @@
         "year": 2023,
         "duration": 140,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNThiZjA3MjItZGY5Ni00ZmJhLWEwN2EtOTBlYTA4Y2E0M2ZmXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 20m",
+        "classification": "PG",
         "score": 8.6
     },
     {
@@ -300,7 +300,7 @@
         "year": 2006,
         "duration": 151,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTI1MTY2OTIxNV5BMl5BanBnXkFtZTYwNjQ4NjY3._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "2h 31m",
+        "classification": "R",
         "score": 8.5
     },
     {
@@ -308,7 +308,7 @@
         "year": 2014,
         "duration": 106,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMmNkODhkYjctMDMyOC00ZTNjLTkwZTItM2ExMTAxMGU1ZGQ1XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 46m",
+        "classification": "R",
         "score": 8.5
     },
     {
@@ -316,7 +316,7 @@
         "year": 1998,
         "duration": 119,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMzhiOTQ0NDItOTg0Zi00OGVmLWE0OGEtMTI4NDM0NWMxZWU4XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 59m",
+        "classification": "R",
         "score": 8.5
     },
     {
@@ -324,7 +324,7 @@
         "year": 1994,
         "duration": 110,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOTgyMWQ0ZWUtN2Q2MS00NmY0LWI3OWMtNjFkMzZlNDZjNTk0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 50m",
+        "classification": "R",
         "score": 8.5
     },
     {
@@ -332,7 +332,7 @@
         "year": 1988,
         "duration": 88,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZmY2NjUzNDQtNTgxNC00M2Q4LTljOWQtMjNjNDBjNWUxNmJlXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 28m",
+        "classification": "Not Rated",
         "score": 8.5
     },
     {
@@ -340,7 +340,7 @@
         "year": 2006,
         "duration": 130,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjA4NDI0MTIxNF5BMl5BanBnXkFtZTYwNTM0MzY2._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 10m",
+        "classification": "PG-13",
         "score": 8.5
     },
     {
@@ -348,7 +348,7 @@
         "year": 1962,
         "duration": 133,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMWNmYzg5NWYtNzhiMS00NzlkLTgyOTUtYzM3MjY0NDc2YjFkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR2,0,140,207_.jpg",
-        "classification": "2h 13m",
+        "classification": "Not Rated",
         "score": 8.6
     },
     {
@@ -356,7 +356,7 @@
         "year": 2024,
         "duration": 166,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNTc0YmQxMjEtODI5MC00NjFiLTlkMWUtOGQ5NjFmYWUyZGJhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 46m",
+        "classification": "PG-13",
         "score": 8.5
     },
     {
@@ -364,7 +364,7 @@
         "year": 1995,
         "duration": 106,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYTViNjMyNmUtNDFkNC00ZDRlLThmMDUtZDU2YWE4NGI2ZjVmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 46m",
+        "classification": "R",
         "score": 8.5
     },
     {
@@ -372,7 +372,7 @@
         "year": 1942,
         "duration": 102,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNWEzN2U1YTYtYTQyMS00NTVkLWE2NGQtZWFlMmM0MDNjMmRiXkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
-        "classification": "1h 42m",
+        "classification": "PG",
         "score": 8.5
     },
     {
@@ -380,7 +380,7 @@
         "year": 2011,
         "duration": 112,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTYxNDA3MDQwNl5BMl5BanBnXkFtZTcwNTU4Mzc1Nw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 52m",
+        "classification": "R",
         "score": 8.5
     },
     {
@@ -388,7 +388,7 @@
         "year": 1988,
         "duration": 174,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BM2FhYjEyYmYtMDI1Yy00YTdlLWI2NWQtYmEzNzAxOGY1NjY2XkEyXkFqcGdeQXVyNTA3NTIyNDg@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 54m",
+        "classification": "PG",
         "score": 8.5
     },
     {
@@ -396,7 +396,7 @@
         "year": 1936,
         "duration": 87,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BM2VlMjY3N2UtN2ZjNC00MDg4LWI3ZGQtZmE4NjZkZjkwZmYzXkEyXkFqcGdeQXVyMTU3NDU4MDg2._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 27m",
+        "classification": "G",
         "score": 8.5
     },
     {
@@ -404,7 +404,7 @@
         "year": 1979,
         "duration": 117,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOGQzZTBjMjQtOTVmMS00NGE5LWEyYmMtOGQ1ZGZjNmRkYjFhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
-        "classification": "1h 57m",
+        "classification": "R",
         "score": 8.5
     },
     {
@@ -412,7 +412,7 @@
         "year": 1954,
         "duration": 112,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNGUxYWM3M2MtMGM3Mi00ZmRiLWE0NGQtZjE5ODI2OTJhNTU0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY207_CR1,0,140,207_.jpg",
-        "classification": "1h 52m",
+        "classification": "PG",
         "score": 8.5
     },
     {
@@ -420,7 +420,7 @@
         "year": 1968,
         "duration": 166,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BODQ3NDExOGYtMzI3Mi00NWRlLTkwNjAtNjc4MDgzZGJiZTA1XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 46m",
+        "classification": "PG-13",
         "score": 8.5
     },
     {
@@ -428,7 +428,7 @@
         "year": 1931,
         "duration": 87,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BM2U4NjgzODUtODkyOC00YTE2LTlhNTItYzFlYmM1NTEzZDA2XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 27m",
+        "classification": "G",
         "score": 8.5
     },
     {
@@ -436,7 +436,7 @@
         "year": 2012,
         "duration": 165,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 45m",
+        "classification": "R",
         "score": 8.5
     },
     {
@@ -444,7 +444,7 @@
         "year": 1979,
         "duration": 147,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYmQyNTA1ZGItNjZjMi00NzFlLWEzMWEtNWMwN2Q2MjJhYzEyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,4,140,207_.jpg",
-        "classification": "2h 27m",
+        "classification": "R",
         "score": 8.4
     },
     {
@@ -452,7 +452,7 @@
         "year": 2000,
         "duration": 113,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR1,0,140,207_.jpg",
-        "classification": "1h 53m",
+        "classification": "R",
         "score": 8.4
     },
     {
@@ -460,7 +460,7 @@
         "year": 2008,
         "duration": 98,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjExMTg5OTU0NF5BMl5BanBnXkFtZTcwMjMxMzMzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 38m",
+        "classification": "G",
         "score": 8.4
     },
     {
@@ -468,7 +468,7 @@
         "year": 1981,
         "duration": 115,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNTU2ODkyY2MtMjU1NC00NjE1LWEzYjgtMWQ3MzRhMTE0NDc0XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_QL75_UY207_CR1,0,140,207_.jpg",
-        "classification": "1h 55m",
+        "classification": "PG",
         "score": 8.4
     },
     {
@@ -476,7 +476,7 @@
         "year": 2023,
         "duration": 147,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNTE3OTIxZDYtNjA0NC00N2YxLTg1NGQtOTYxNmZkMDkwOWNjXkEyXkFqcGc@._V1_QL75_UY207_CR9,0,140,207_.jpg",
-        "classification": "2h 27m",
+        "classification": "None",
         "score": 8.9
     },
     {
@@ -484,7 +484,7 @@
         "year": 2006,
         "duration": 137,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNmQyNmJjM2ItNTQzYi00ZjMxLWFjMDYtZjUyN2YwZDk5YWQ2XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 17m",
+        "classification": "R",
         "score": 8.4
     },
     {
@@ -492,7 +492,7 @@
         "year": 1950,
         "duration": 110,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU0NTkyNzYwMF5BMl5BanBnXkFtZTgwMDU0NDk5MTI@._V1_QL75_UX140_CR0,2,140,207_.jpg",
-        "classification": "1h 50m",
+        "classification": "Approved",
         "score": 8.4
     },
     {
@@ -500,7 +500,7 @@
         "year": 2018,
         "duration": 149,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 29m",
+        "classification": "PG-13",
         "score": 8.4
     },
     {
@@ -508,7 +508,7 @@
         "year": 1957,
         "duration": 88,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOTI5Nzc0OTMtYzBkMS00NjkxLThmM2UtNjM2ODgxN2M5NjNkXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "1h 28m",
+        "classification": "Approved",
         "score": 8.4
     },
     {
@@ -516,7 +516,7 @@
         "year": 2018,
         "duration": 117,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjMwNDkxMTgzOF5BMl5BanBnXkFtZTgwNTkwNTQ3NjM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 57m",
+        "classification": "PG",
         "score": 8.4
     },
     {
@@ -524,7 +524,7 @@
         "year": 1957,
         "duration": 116,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNDQwODU5OWYtNDcyNi00MDQ1LThiOGMtZDkwNWJiM2Y3MDg0XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "1h 56m",
+        "classification": "Approved",
         "score": 8.4
     },
     {
@@ -532,7 +532,7 @@
         "year": 1980,
         "duration": 146,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "2h 26m",
+        "classification": "R",
         "score": 8.4
     },
     {
@@ -540,7 +540,7 @@
         "year": 1940,
         "duration": 125,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjc4ZjEwNDUtMjlmZS00NzQ4LTg2N2MtMGI3ZjMyMmM3ZDM2XkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 5m",
+        "classification": "G",
         "score": 8.4
     },
     {
@@ -548,7 +548,7 @@
         "year": 1986,
         "duration": 137,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOGJkY2EyOWYtYWRmNy00ZTEzLTllMDAtYzYzYjA0ZjFhZWJjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_QL75_UX140_CR0,2,140,207_.jpg",
-        "classification": "2h 17m",
+        "classification": "R",
         "score": 8.4
     },
     {
@@ -556,7 +556,7 @@
         "year": 2009,
         "duration": 153,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOTJiNDEzOWYtMTVjOC00ZjlmLWE0NGMtZmE1OWVmZDQ2OWJhXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 33m",
+        "classification": "R",
         "score": 8.4
     },
     {
@@ -564,7 +564,7 @@
         "year": 2012,
         "duration": 164,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk4ODQzNDY3Ml5BMl5BanBnXkFtZTcwODA0NTM4Nw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 44m",
+        "classification": "PG-13",
         "score": 8.4
     },
     {
@@ -572,7 +572,7 @@
         "year": 2017,
         "duration": 105,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYjQ5NjM0Y2YtNjZkNC00ZDhkLWJjMWItN2QyNzFkMDE3ZjAxXkEyXkFqcGdeQXVyODIxMzk5NjA@._V1_QL75_UY207_CR3,0,140,207_.jpg",
-        "classification": "1h 45m",
+        "classification": "PG",
         "score": 8.4
     },
     {
@@ -580,7 +580,7 @@
         "year": 1984,
         "duration": 160,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNWJlNzUzNGMtYTAwMS00ZjI2LWFmNWQtODcxNWUxODA5YmU1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX140_CR0,5,140,207_.jpg",
-        "classification": "2h 40m",
+        "classification": "PG",
         "score": 8.4
     },
     {
@@ -588,7 +588,7 @@
         "year": 1995,
         "duration": 81,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 21m",
+        "classification": "G",
         "score": 8.3
     },
     {
@@ -596,7 +596,7 @@
         "year": 1964,
         "duration": 95,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,5,140,207_.jpg",
-        "classification": "1h 35m",
+        "classification": "PG",
         "score": 8.3
     },
     {
@@ -604,7 +604,7 @@
         "year": 2003,
         "duration": null,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h",
+        "classification": "R",
         "score": 8.3
     },
     {
@@ -612,7 +612,7 @@
         "year": 1999,
         "duration": 122,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNTBmZWJkNjctNDhiNC00MGE2LWEwOTctZTk5OGVhMWMyNmVhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 2m",
+        "classification": "R",
         "score": 8.3
     },
     {
@@ -620,7 +620,7 @@
         "year": 2019,
         "duration": 181,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "3h 1m",
+        "classification": "PG-13",
         "score": 8.4
     },
     {
@@ -628,7 +628,7 @@
         "year": 1981,
         "duration": 149,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNGU0MWZlMTUtM2Y3Ny00NGNmLWE5NmEtN2YxOWQzMGM3ZWYzXkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
-        "classification": "2h 29m",
+        "classification": "None",
         "score": 8.4
     },
     {
@@ -636,7 +636,7 @@
         "year": 1995,
         "duration": 178,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "2h 58m",
+        "classification": "R",
         "score": 8.3
     },
     {
@@ -644,7 +644,7 @@
         "year": 1997,
         "duration": 126,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOTI0MzcxMTYtZDVkMy00NjY1LTgyMTYtZmUxN2M3NmQ2NWJhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "2h 6m",
+        "classification": "R",
         "score": 8.3
     },
     {
@@ -652,7 +652,7 @@
         "year": 1997,
         "duration": 133,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNjM3NGExNDctYmU0Yy00MTJjLThlNTItMjM4NDBjMGRiMmE5XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 13m",
+        "classification": "PG-13",
         "score": 8.3
     },
     {
@@ -660,7 +660,7 @@
         "year": 2019,
         "duration": 122,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNGVjNWI4ZGUtNzE0MS00YTJmLWE0ZDctN2ZiYTk2YmI3NTYyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 2m",
+        "classification": "R",
         "score": 8.4
     },
     {
@@ -668,7 +668,7 @@
         "year": 2016,
         "duration": 106,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BODRmZDVmNzUtZDA4ZC00NjhkLWI2M2UtN2M0ZDIzNDcxYThjL2ltYWdlXkEyXkFqcGdeQXVyNTk0MzMzODA@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 46m",
+        "classification": "None",
         "score": 8.4
     },
     {
@@ -676,7 +676,7 @@
         "year": 1963,
         "duration": 143,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZGQ1NWZlYjctNDJmOS00MmU2LTg1ODItNmZiM2ZkNzJhNDI0XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UY207_CR3,0,140,207_.jpg",
-        "classification": "2h 23m",
+        "classification": "Not Rated",
         "score": 8.4
     },
     {
@@ -684,7 +684,7 @@
         "year": 2009,
         "duration": 170,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNTkyOGVjMGEtNmQzZi00NzFlLTlhOWQtODYyMDc2ZGJmYzFhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR2,0,140,207_.jpg",
-        "classification": "2h 50m",
+        "classification": "PG-13",
         "score": 8.4
     },
     {
@@ -692,7 +692,7 @@
         "year": 1984,
         "duration": 229,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMmQzZjdmZDAtOGE2Yy00MmUwLTljYzgtZTMwMjk3ZDdiOWUyXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "3h 49m",
+        "classification": "R",
         "score": 8.3
     },
     {
@@ -700,7 +700,7 @@
         "year": 1952,
         "duration": 103,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZDRjNGViMjQtOThlMi00MTA3LThkYzQtNzJkYjBkMGE0YzE1XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_QL75_UY207_CR1,0,140,207_.jpg",
-        "classification": "1h 43m",
+        "classification": "G",
         "score": 8.3
     },
     {
@@ -708,7 +708,7 @@
         "year": 2018,
         "duration": 126,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMmExNzU2ZWMtYzUwYi00YmM2LTkxZTQtNmVhNjY0NTMyMWI2XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR1,0,140,207_.jpg",
-        "classification": "2h 6m",
+        "classification": "R",
         "score": 8.4
     },
     {
@@ -716,7 +716,7 @@
         "year": 1985,
         "duration": 142,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BODM4Njg0NTAtYjI5Ny00ZjAxLTkwNmItZTMxMWU5M2U3M2RjXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,4,140,207_.jpg",
-        "classification": "2h 22m",
+        "classification": "Not Rated",
         "score": 8.4
     },
     {
@@ -724,7 +724,7 @@
         "year": 2000,
         "duration": 102,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOTdiNzJlOWUtNWMwNS00NmFlLWI0YTEtZmI3YjIzZWUyY2Y3XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 42m",
+        "classification": "NC-17",
         "score": 8.3
     },
     {
@@ -732,7 +732,7 @@
         "year": 2010,
         "duration": 103,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTgxOTY4Mjc0MF5BMl5BanBnXkFtZTcwNTA4MDQyMw@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
-        "classification": "1h 43m",
+        "classification": "G",
         "score": 8.3
     },
     {
@@ -740,7 +740,7 @@
         "year": 1983,
         "duration": 131,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOWZlMjFiYzgtMTUzNC00Y2IzLTk1NTMtZmNhMTczNTk0ODk1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX140_CR0,5,140,207_.jpg",
-        "classification": "2h 11m",
+        "classification": "PG",
         "score": 8.3
     },
     {
@@ -748,7 +748,7 @@
         "year": 2004,
         "duration": 108,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY4NzcwODg3Nl5BMl5BanBnXkFtZTcwNTEwOTMyMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 48m",
+        "classification": "R",
         "score": 8.3
     },
     {
@@ -756,7 +756,7 @@
         "year": 2012,
         "duration": 115,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg2NDg3ODg4NF5BMl5BanBnXkFtZTcwNzk3NTc3Nw@@._V1_QL75_UY207_CR3,0,140,207_.jpg",
-        "classification": "1h 55m",
+        "classification": "R",
         "score": 8.3
     },
     {
@@ -764,7 +764,7 @@
         "year": 1968,
         "duration": 149,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMmNlYzRiNDctZWNhMi00MzI4LThkZTctMTUzMmZkMmFmNThmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 29m",
+        "classification": "G",
         "score": 8.3
     },
     {
@@ -772,7 +772,7 @@
         "year": 1952,
         "duration": 143,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYWM1YmZkNTctZDAwNy00ZTY4LWFjMTktYzU4ZjViMmU1OTJmXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 23m",
+        "classification": "Not Rated",
         "score": 8.3
     },
     {
@@ -780,7 +780,7 @@
         "year": 1992,
         "duration": 99,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMmMzYjg4NDctYWY0Mi00OGViLWIzMTMtYWNlZGY5ZDJmYjk3XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 39m",
+        "classification": "R",
         "score": 8.3
     },
     {
@@ -788,7 +788,7 @@
         "year": 1962,
         "duration": 218,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYjY0YTQ1OTAtYjEyNy00NTQ4LThlMTQtM2QwYTVhYWFhNjU5XkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
-        "classification": "3h 38m",
+        "classification": "PG",
         "score": 8.3
     },
     {
@@ -796,7 +796,7 @@
         "year": 1960,
         "duration": 125,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNzkwODFjNzItMmMwNi00MTU5LWE2MzktM2M4ZDczZGM1MmViXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_QL75_UX140_CR0,7,140,207_.jpg",
-        "classification": "2h 5m",
+        "classification": "Approved",
         "score": 8.3
     },
     {
@@ -804,7 +804,7 @@
         "year": 2010,
         "duration": 131,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMWE3MGYzZjktY2Q5Mi00Y2NiLWIyYWUtMmIyNzA3YmZlMGFhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 11m",
+        "classification": "R",
         "score": 8.3
     },
     {
@@ -812,7 +812,7 @@
         "year": 2023,
         "duration": null,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMDBmYTZjNjUtN2M1MS00MTQ2LTk2ODgtNzc2M2QyZGE5NTVjXkEyXkFqcGdeQXVyNzAwMjU2MTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "3h",
+        "classification": "R",
         "score": 8.3
     },
     {
@@ -820,7 +820,7 @@
         "year": 1959,
         "duration": 136,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,2,140,207_.jpg",
-        "classification": "2h 16m",
+        "classification": "Approved",
         "score": 8.3
     },
     {
@@ -828,7 +828,7 @@
         "year": 1983,
         "duration": 170,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNjdjNGQ4NDEtNTEwYS00MTgxLTliYzQtYzE2ZDRiZjFhZmNlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 50m",
+        "classification": "R",
         "score": 8.3
     },
     {
@@ -836,7 +836,7 @@
         "year": 1941,
         "duration": 119,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYjBiOTYxZWItMzdiZi00NjlkLWIzZTYtYmFhZjhiMTljOTdkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 59m",
+        "classification": "PG",
         "score": 8.3
     },
     {
@@ -844,7 +844,7 @@
         "year": 1944,
         "duration": 107,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOTdlNjgyZGUtOTczYi00MDdhLTljZmMtYTEwZmRiOWFkYjRhXkEyXkFqcGdeQXVyNDY2MTk1ODk@._V1_QL75_UX140_CR0,2,140,207_.jpg",
-        "classification": "1h 47m",
+        "classification": "Approved",
         "score": 8.3
     },
     {
@@ -852,7 +852,7 @@
         "year": 1931,
         "duration": 99,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BODA4ODk3OTEzMF5BMl5BanBnXkFtZTgwMTQ2ODMwMzE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 39m",
+        "classification": "Passed",
         "score": 8.3
     },
     {
@@ -860,7 +860,7 @@
         "year": 1958,
         "duration": 128,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,5,140,207_.jpg",
-        "classification": "2h 8m",
+        "classification": "PG",
         "score": 8.3
     },
     {
@@ -868,7 +868,7 @@
         "year": 1987,
         "duration": 116,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNzkxODk0NjEtYjc4Mi00ZDI0LTgyYjEtYzc1NDkxY2YzYTgyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 56m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -876,7 +876,7 @@
         "year": 1995,
         "duration": 170,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYjZjNTJlZGUtZTE1Ny00ZDc4LTgwYjUtMzk0NDgwYzZjYTk1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR2,0,140,207_.jpg",
-        "classification": "2h 50m",
+        "classification": "R",
         "score": 8.3
     },
     {
@@ -884,7 +884,7 @@
         "year": 2001,
         "duration": 122,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNDg4NjM1YjMtYmNhZC00MjM0LWFiZmYtNGY1YjA3MzZmODc5XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 2m",
+        "classification": "R",
         "score": 8.3
     },
     {
@@ -892,7 +892,7 @@
         "year": 2009,
         "duration": 96,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYjBkM2RjMzItM2M3Ni00N2NjLWE3NzMtMGY4MzE4MDAzMTRiXkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 36m",
+        "classification": "PG",
         "score": 8.3
     },
     {
@@ -900,7 +900,7 @@
         "year": 1971,
         "duration": 136,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY3MjM1Mzc4N15BMl5BanBnXkFtZTgwODM0NzAxMDE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 16m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -908,7 +908,7 @@
         "year": 1962,
         "duration": 129,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNmVmYzcwNzMtMWM1NS00MWIyLThlMDEtYzUwZDgzODE1NmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "2h 9m",
+        "classification": "Approved",
         "score": 8.3
     },
     {
@@ -916,7 +916,7 @@
         "year": 2011,
         "duration": 123,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMDM0ZWRmMzctM2M5ZS00ZjU0LWIxN2MtNWNlNGY1ZDhjMDVhXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 3m",
+        "classification": "PG-13",
         "score": 8.3
     },
     {
@@ -924,7 +924,7 @@
         "year": 1973,
         "duration": 129,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNGU3NjQ4YTMtZGJjOS00YTQ3LThmNmItMTI5MDE2ODI3NzY3XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "2h 9m",
+        "classification": "PG",
         "score": 8.3
     },
     {
@@ -932,7 +932,7 @@
         "year": 1988,
         "duration": 132,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 12m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -940,7 +940,7 @@
         "year": 1989,
         "duration": 127,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BY2Q0ODg4ZmItNDZiYi00ZWY5LTg2NzctNmYwZjA5OThmNzE1XkEyXkFqcGdeQXVyMjM4MzQ4OTQ@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 7m",
+        "classification": "PG-13",
         "score": 8.2
     },
     {
@@ -948,7 +948,7 @@
         "year": 2007,
         "duration": 162,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMDhjZWViN2MtNzgxOS00NmI4LThiZDQtZDI3MzM4MDE4NTc0XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR3,0,140,207_.jpg",
-        "classification": "2h 42m",
+        "classification": "PG",
         "score": 8.3
     },
     {
@@ -956,7 +956,7 @@
         "year": 1927,
         "duration": 153,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg5YWIyMWUtZDY5My00Zjc1LTljOTctYmI0MWRmY2M2NmRkXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "2h 33m",
+        "classification": "Not Rated",
         "score": 8.3
     },
     {
@@ -964,7 +964,7 @@
         "year": 2000,
         "duration": 102,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYzk5NjJkMTQtN2IyNC00YWM5LTlhZmMtNGI3MWNhMTU1YTc4XkEyXkFqcGc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
-        "classification": "1h 42m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -972,7 +972,7 @@
         "year": 2019,
         "duration": 119,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYzkxZjg2NDQtMGVjMy00NWZkLTk0ZDEtZWE3NDYwYjAyMTg1XkEyXkFqcGc@._V1_QL75_UX140_CR0,7,140,207_.jpg",
-        "classification": "1h 59m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -980,7 +980,7 @@
         "year": 1997,
         "duration": 138,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMDQ2YzEyZGItYWRhOS00MjBmLTkzMDUtMTdjYzkyMmQxZTJlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UY207_CR1,0,140,207_.jpg",
-        "classification": "2h 18m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -988,7 +988,7 @@
         "year": 1948,
         "duration": 89,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZTQzYTIxYzItYmQ5YS00MmFhLWEyMjItNTBhMTRmM2Y5MDJhXkEyXkFqcGc@._V1_QL75_UY207_CR2,0,140,207_.jpg",
-        "classification": "1h 29m",
+        "classification": "Not Rated",
         "score": 8.3
     },
     {
@@ -996,7 +996,7 @@
         "year": 2020,
         "duration": 160,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNjViNWRjYWEtZTI0NC00N2E3LTk0NGQtMjY4NTM3OGNkZjY0XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 40m",
+        "classification": "PG-13",
         "score": 8.3
     },
     {
@@ -1004,7 +1004,7 @@
         "year": 1976,
         "duration": 114,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BM2M1MmVhNDgtNmI0YS00ZDNmLTkyNjctNTJiYTQ2N2NmYzc2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "1h 54m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -1012,7 +1012,7 @@
         "year": 2004,
         "duration": 156,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTU0NTU5NTAyMl5BMl5BanBnXkFtZTYwNzYwMDg2._V1_QL75_UY207_CR1,0,140,207_.jpg",
-        "classification": "2h 36m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -1020,7 +1020,7 @@
         "year": 2016,
         "duration": 161,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_QL75_UY207_CR4,0,140,207_.jpg",
-        "classification": "2h 41m",
+        "classification": "Not Rated",
         "score": 8.3
     },
     {
@@ -1028,7 +1028,7 @@
         "year": 2005,
         "duration": 140,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOTY4YjI2N2MtYmFlMC00ZjcyLTg3YjEtMDQyM2ZjYzQ5YWFkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "2h 20m",
+        "classification": "PG-13",
         "score": 8.2
     },
     {
@@ -1036,7 +1036,7 @@
         "year": 1965,
         "duration": 132,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMzJlZTNkYjQtMTE1OS00YTJlLTgxNjItYzg4NTllODdkMzBiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "2h 12m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -1044,7 +1044,7 @@
         "year": 2013,
         "duration": null,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "3h",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -1052,7 +1052,7 @@
         "year": 2018,
         "duration": 130,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 10m",
+        "classification": "PG-13",
         "score": 8.2
     },
     {
@@ -1060,7 +1060,7 @@
         "year": 1959,
         "duration": 121,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNzAyOGIxYjAtMGY2NC00ZTgyLWIwMWEtYzY0OWQ4NDFjOTc5XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,5,140,207_.jpg",
-        "classification": "2h 1m",
+        "classification": "Approved",
         "score": 8.2
     },
     {
@@ -1068,7 +1068,7 @@
         "year": 1921,
         "duration": 68,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZjhhMThhNDItNTY2MC00MmU1LTliNDEtNDdhZjdlNTY5ZDQ1XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,2,140,207_.jpg",
-        "classification": "1h 8m",
+        "classification": "Passed",
         "score": 8.2
     },
     {
@@ -1076,7 +1076,7 @@
         "year": 1998,
         "duration": 103,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 43m",
+        "classification": "PG",
         "score": 8.2
     },
     {
@@ -1084,7 +1084,7 @@
         "year": 1961,
         "duration": 179,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNDc2ODQ5NTE2MV5BMl5BanBnXkFtZTcwODExMjUyNA@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 59m",
+        "classification": "Approved",
         "score": 8.3
     },
     {
@@ -1092,7 +1092,7 @@
         "year": 2020,
         "duration": 97,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZGJhNWRiOWQtMjI4OS00ZjcxLTgwMTAtMzQ2ODkxY2JkOTVlXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 37m",
+        "classification": "PG-13",
         "score": 8.2
     },
     {
@@ -1100,7 +1100,7 @@
         "year": 1950,
         "duration": 138,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYmE1M2Y3NTYtYTI0Mi00N2JlLTkzMzItOTY1MTlhNWNkMDgzXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_QL75_UX140_CR0,2,140,207_.jpg",
-        "classification": "2h 18m",
+        "classification": "Approved",
         "score": 8.2
     },
     {
@@ -1108,7 +1108,7 @@
         "year": 2010,
         "duration": 138,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYzhiNDkyNzktNTZmYS00ZTBkLTk2MDAtM2U0YjU1MzgxZjgzXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 18m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -1116,7 +1116,7 @@
         "year": 2007,
         "duration": 158,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAxODQ4MDU5NV5BMl5BanBnXkFtZTcwMDU4MjU1MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 38m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -1124,7 +1124,7 @@
         "year": 2022,
         "duration": 130,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMmIwZDMyYWUtNTU0ZS00ODJhLTg2ZmEtMTk5ZmYzODcxODYxXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 10m",
+        "classification": "PG-13",
         "score": 8.2
     },
     {
@@ -1132,7 +1132,7 @@
         "year": 1993,
         "duration": 127,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 7m",
+        "classification": "PG-13",
         "score": 8.2
     },
     {
@@ -1140,7 +1140,7 @@
         "year": 1995,
         "duration": 178,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTcxOWYzNDYtYmM4YS00N2NkLTk0NTAtNjg1ODgwZjAxYzI3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 58m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -1148,7 +1148,7 @@
         "year": 1985,
         "duration": 160,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMmU1NGYwZWYtOWExNi00ZTEyLTgwMmUtM2ZlMDVjNWM4YjVlXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "2h 40m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -1156,7 +1156,7 @@
         "year": 1999,
         "duration": 107,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMWM4NTFhYjctNzUyNi00NGMwLTk3NTYtMDIyNTZmMzRlYmQyXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "1h 47m",
+        "classification": "PG-13",
         "score": 8.2
     },
     {
@@ -1164,7 +1164,7 @@
         "year": 2006,
         "duration": 118,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYzFjMThiMGItOWRlMC00MDI4LThmOGUtYTNlZGZiYWI1YjMyXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 58m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -1172,7 +1172,7 @@
         "year": 1992,
         "duration": 130,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BODM3YWY4NmQtN2Y3Ni00OTg0LWFhZGQtZWE3ZWY4MTJlOWU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 10m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -1180,7 +1180,7 @@
         "year": 2007,
         "duration": 122,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjA5Njk3MjM4OV5BMl5BanBnXkFtZTcwMTc5MTE1MQ@@._V1_QL75_UY207_CR1,0,140,207_.jpg",
-        "classification": "2h 2m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -1188,7 +1188,7 @@
         "year": 1982,
         "duration": 109,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNGViZWZmM2EtNGYzZi00ZDAyLTk3ODMtNzIyZTBjN2Y1NmM1XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 49m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -1196,7 +1196,7 @@
         "year": 2001,
         "duration": 135,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMzcwYWFkYzktZjAzNC00OGY1LWI4YTgtNzc5MzVjMDVmNjY0XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 15m",
+        "classification": "PG-13",
         "score": 8.2
     },
     {
@@ -1204,7 +1204,7 @@
         "year": 2003,
         "duration": 111,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNzM3NDFhYTAtYmU5Mi00NGRmLTljYjgtMDkyODQ4MjNkMGY2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 51m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -1212,7 +1212,7 @@
         "year": 1948,
         "duration": 126,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOTJlZWMxYzEtMjlkMS00ODE0LThlM2ItMDI3NGQ2YjhmMzkxXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_QL75_UX140_CR0,2,140,207_.jpg",
-        "classification": "2h 6m",
+        "classification": "Approved",
         "score": 8.2
     },
     {
@@ -1220,7 +1220,7 @@
         "year": 1961,
         "duration": 110,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZThiZjAzZjgtNDU3MC00YThhLThjYWUtZGRkYjc2ZWZlOTVjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 50m",
+        "classification": "Not Rated",
         "score": 8.2
     },
     {
@@ -1228,7 +1228,7 @@
         "year": 1963,
         "duration": 172,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNzA2NmYxMWUtNzBlMC00MWM2LTkwNmQtYTFlZjQwODNhOWE0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_QL75_UX140_CR0,6,140,207_.jpg",
-        "classification": "2h 52m",
+        "classification": "Approved",
         "score": 8.2
     },
     {
@@ -1236,7 +1236,7 @@
         "year": 1975,
         "duration": 91,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BN2IyNTE4YzUtZWU0Mi00MGIwLTgyMmQtMzQ4YzQxYWNlYWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 31m",
+        "classification": "PG",
         "score": 8.2
     },
     {
@@ -1244,7 +1244,7 @@
         "year": 2003,
         "duration": 100,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc5NjExNTA5OV5BMl5BanBnXkFtZTYwMTQ0ODY2._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 40m",
+        "classification": "G",
         "score": 8.2
     },
     {
@@ -1252,7 +1252,7 @@
         "year": 2013,
         "duration": 153,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTg0NTIzMjQ1NV5BMl5BanBnXkFtZTcwNDc3MzM5OQ@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "2h 33m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -1260,7 +1260,7 @@
         "year": 2004,
         "duration": 119,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY1OTg0MjE3MV5BMl5BanBnXkFtZTcwNTUxMTkyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 59m",
+        "classification": "PG",
         "score": 8.2
     },
     {
@@ -1268,7 +1268,7 @@
         "year": 1950,
         "duration": 88,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjEzMzA4NDE2OF5BMl5BanBnXkFtZTcwNTc5MDI2NQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 28m",
+        "classification": "Not Rated",
         "score": 8.2
     },
     {
@@ -1276,7 +1276,7 @@
         "year": 1980,
         "duration": 124,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMDVjNjIwOGItNDE3Ny00OThjLWE0NzQtZTU3YjMzZTZjMzhkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 4m",
+        "classification": "PG",
         "score": 8.2
     },
     {
@@ -1284,7 +1284,7 @@
         "year": 1954,
         "duration": 105,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOWIwODIxYWItZDI4MS00YzhhLWE3MmYtMzlhZDIwOTMzZmE5L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 45m",
+        "classification": "PG",
         "score": 8.2
     },
     {
@@ -1292,7 +1292,7 @@
         "year": 1974,
         "duration": 130,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjJkMDZhYzItZTFhMi00ZGI4LThlNTAtZDNlYmEwNjFkNDYzXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
-        "classification": "2h 10m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1300,7 +1300,7 @@
         "year": 1939,
         "duration": 238,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYjUyZWZkM2UtMzYxYy00ZmQ3LWFmZTQtOGE2YjBkNjA3YWZlXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "3h 58m",
+        "classification": "G",
         "score": 8.2
     },
     {
@@ -1308,7 +1308,7 @@
         "year": 1998,
         "duration": 107,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMmY1M2M5ZmMtYzllZC00YzAxLTk4MjktZDJkNjA1MTUwMGQ4XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 47m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1316,7 +1316,7 @@
         "year": 2009,
         "duration": 129,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTgwNTI3OTczOV5BMl5BanBnXkFtZTcwMTM3MTUyMw@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "2h 9m",
+        "classification": "R",
         "score": 8.2
     },
     {
@@ -1324,7 +1324,7 @@
         "year": 2015,
         "duration": 95,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOTgxMDQwMDk0OF5BMl5BanBnXkFtZTgwNjU5OTg2NDE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 35m",
+        "classification": "PG",
         "score": 8.1
     },
     {
@@ -1332,7 +1332,7 @@
         "year": 2005,
         "duration": 132,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOTI5ODc3NzExNV5BMl5BanBnXkFtZTcwNzYxNzQzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 12m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1340,7 +1340,7 @@
         "year": 2017,
         "duration": 115,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjI0ODcxNzM1N15BMl5BanBnXkFtZTgwMzIwMTEwNDI@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 55m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1348,7 +1348,7 @@
         "year": 1980,
         "duration": 129,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYjRmODkzNDItMTNhNi00YjJlLTg0ZjAtODlhZTM0YzgzYThlXkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_QL75_UY207_CR1,0,140,207_.jpg",
-        "classification": "2h 9m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1356,7 +1356,7 @@
         "year": 1996,
         "duration": 93,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMzA5Zjc3ZTMtMmU5YS00YTMwLWI4MWUtYTU0YTVmNjVmODZhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 33m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1364,7 +1364,7 @@
         "year": 1957,
         "duration": 161,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOGY5NmNlMmQtYzRlYy00NGQ5LWFkYjYtNzExZmQyMTg0ZDA0XkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_QL75_UX140_CR0,5,140,207_.jpg",
-        "classification": "2h 41m",
+        "classification": "PG",
         "score": 8.1
     },
     {
@@ -1372,7 +1372,7 @@
         "year": 2019,
         "duration": 96,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMWYwOThjM2ItZGYxNy00NTQwLWFlZWEtM2MzM2Q5MmY3NDU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 36m",
+        "classification": "PG",
         "score": 8.2
     },
     {
@@ -1380,7 +1380,7 @@
         "year": 2002,
         "duration": 141,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY5MzYzNjc5NV5BMl5BanBnXkFtZTYwNTUyNTc2._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 21m",
+        "classification": "PG-13",
         "score": 8.1
     },
     {
@@ -1388,7 +1388,7 @@
         "year": 1996,
         "duration": 98,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNDJiZDgyZjctYmRjMS00ZjdkLTkwMTEtNGU1NDg3NDQ0Yzk1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "1h 38m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1396,7 +1396,7 @@
         "year": 2011,
         "duration": 140,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk4ODk5MTMyNV5BMl5BanBnXkFtZTcwMDMyNTg0Ng@@._V1_QL75_UX140_CR0,4,140,207_.jpg",
-        "classification": "2h 20m",
+        "classification": "PG-13",
         "score": 8.1
     },
     {
@@ -1404,7 +1404,7 @@
         "year": 2021,
         "duration": 148,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZjI5NmFmOWUtZWY0ZS00NTc5LWE0YjgtMjk3YmNiM2EwM2U4XkEyXkFqcGdeQXVyMTA1NjE5MTAz._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 28m",
+        "classification": "PG-13",
         "score": 8.2
     },
     {
@@ -1412,7 +1412,7 @@
         "year": 2008,
         "duration": 116,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTc5NTk2OTU1Nl5BMl5BanBnXkFtZTcwMDc3NjAwMg@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "1h 56m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1420,7 +1420,7 @@
         "year": 2011,
         "duration": 130,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMGVmMWNiMDktYjQ0Mi00MWIxLTk0N2UtN2ZlYTdkN2IzNDNlXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 10m",
+        "classification": "PG-13",
         "score": 8.1
     },
     {
@@ -1428,7 +1428,7 @@
         "year": 2004,
         "duration": 132,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTkxNzA1NDQxOV5BMl5BanBnXkFtZTcwNTkyMTIzMw@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "2h 12m",
+        "classification": "PG-13",
         "score": 8.1
     },
     {
@@ -1436,7 +1436,7 @@
         "year": 1988,
         "duration": 86,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYWM3MDE3YjEtMzIzZC00ODE5LTgxNTItNmUyMTBkM2M2NmNiXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 26m",
+        "classification": "G",
         "score": 8.1
     },
     {
@@ -1444,7 +1444,7 @@
         "year": 2015,
         "duration": null,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BN2EwM2I5OWMtMGQyMi00Zjg1LWJkNTctZTdjYTA4OGUwZjMyXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1452,7 +1452,7 @@
         "year": 1997,
         "duration": 89,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZTYwZWQ4ZTQtZWU0MS00N2YwLWEzMDItZWFkZWY0MWVjODVhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,4,140,207_.jpg",
-        "classification": "1h 29m",
+        "classification": "PG",
         "score": 8.2
     },
     {
@@ -1460,7 +1460,7 @@
         "year": 1959,
         "duration": 212,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNjg2M2E1YzYtOThmMC00NjAyLWI5MzgtMDEwOGFiODdlOGUzXkEyXkFqcGc@._V1_QL75_UX140_CR0,2,140,207_.jpg",
-        "classification": "3h 32m",
+        "classification": "G",
         "score": 8.1
     },
     {
@@ -1468,7 +1468,7 @@
         "year": 2013,
         "duration": 134,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjExMTEzODkyN15BMl5BanBnXkFtZTcwNTU4NTc4OQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 14m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1476,7 +1476,7 @@
         "year": 1995,
         "duration": 101,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZDdiZTAwYzAtMDI3Ni00OTRjLTkzN2UtMGE3MDMyZmU4NTU4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 41m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1484,7 +1484,7 @@
         "year": 1982,
         "duration": 117,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNzQzMzJhZTEtOWM4NS00MTdhLTg0YjgtMjM4MDRkZjUwZDBlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 57m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1492,7 +1492,7 @@
         "year": 1975,
         "duration": 185,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNmY0MWY2NDctZDdmMi00MjA1LTk0ZTQtZDMyZTQ1NTNlYzVjXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "3h 5m",
+        "classification": "PG",
         "score": 8.1
     },
     {
@@ -1500,7 +1500,7 @@
         "year": 2014,
         "duration": 99,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMzM5NjUxOTEyMl5BMl5BanBnXkFtZTgwNjEyMDM0MDE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 39m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1508,7 +1508,7 @@
         "year": 2016,
         "duration": 139,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_QL75_UX140_CR0,4,140,207_.jpg",
-        "classification": "2h 19m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1516,7 +1516,7 @@
         "year": 2014,
         "duration": 149,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "2h 29m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1524,7 +1524,7 @@
         "year": 1989,
         "duration": 128,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMDYwNGVlY2ItMWYxMS00YjZiLWE5MTAtYWM5NWQ2ZWJjY2Q3XkEyXkFqcGc@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "2h 8m",
+        "classification": "PG",
         "score": 8.1
     },
     {
@@ -1532,7 +1532,7 @@
         "year": 2024,
         "duration": 141,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOTFlMTIxOGItZTk0Zi00MTk2LWJiM2UtMzlhZWYzNjQ4N2Y3XkEyXkFqcGc@._V1_QL75_UY207_CR8,0,140,207_.jpg",
-        "classification": "2h 21m",
+        "classification": "None",
         "score": 8.6
     },
     {
@@ -1540,7 +1540,7 @@
         "year": 2003,
         "duration": 132,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOGViNTg4YTktYTQ2Ni00MTU0LTk2NWUtMTI4OTc1YTM0NzQ2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 12m",
+        "classification": "Not Rated",
         "score": 8.1
     },
     {
@@ -1548,7 +1548,7 @@
         "year": 1993,
         "duration": 133,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMGZiZDVjNzYtZWM4ZC00MzVkLThhNDEtMDJlOTBhYzVjMmNhXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 13m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1556,7 +1556,7 @@
         "year": 1925,
         "duration": 95,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMDA3NmE2OTYtZWQ1Zi00OGI2LTk5NjctNThhNGJjYTI1NzRlXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 35m",
+        "classification": "Approved",
         "score": 8.1
     },
     {
@@ -1564,7 +1564,7 @@
         "year": 2001,
         "duration": 92,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY1NTI0ODUyOF5BMl5BanBnXkFtZTgwNTEyNjQ0MDE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 32m",
+        "classification": "G",
         "score": 8.1
     },
     {
@@ -1572,7 +1572,7 @@
         "year": 2014,
         "duration": 122,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNzAzMjA1ODAxOV5BMl5BanBnXkFtZTgwODg4NTQzNDE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 2m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1580,7 +1580,7 @@
         "year": 1978,
         "duration": 183,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNDhmNTA0ZDMtYjhkNS00NzEzLWIzYTItOGNkMTVmYjE2YmI3XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "3h 3m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1588,7 +1588,7 @@
         "year": 1926,
         "duration": 78,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYmRiMDFlYjYtOTMwYy00OGY2LWE0Y2QtYzQxOGNhZmUwNTIxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 18m",
+        "classification": "Passed",
         "score": 8.1
     },
     {
@@ -1596,7 +1596,7 @@
         "year": 1924,
         "duration": null,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZWFhOGU5NDctY2Q3YS00Y2VlLWI1NzEtZmIwY2ZiZjY4OTA2XkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_QL75_UX140_CR0,7,140,207_.jpg",
-        "classification": "45m",
+        "classification": "Passed",
         "score": 8.2
     },
     {
@@ -1604,7 +1604,7 @@
         "year": 1975,
         "duration": 124,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYjViNDQzNmUtYzkxZi00NTk5LTljMmItYjJlZmZkODIxNjU1XkEyXkFqcGc@._V1_QL75_UX140_CR0,4,140,207_.jpg",
-        "classification": "2h 4m",
+        "classification": "PG",
         "score": 8.1
     },
     {
@@ -1612,7 +1612,7 @@
         "year": 2010,
         "duration": 98,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 38m",
+        "classification": "PG",
         "score": 8.1
     },
     {
@@ -1620,7 +1620,7 @@
         "year": 2007,
         "duration": 111,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 51m",
+        "classification": "G",
         "score": 8.1
     },
     {
@@ -1628,7 +1628,7 @@
         "year": 1954,
         "duration": 108,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BY2I0MWFiZDMtNWQyYy00Njk5LTk3MDktZjZjNTNmZmVkYjkxXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,2,140,207_.jpg",
-        "classification": "1h 48m",
+        "classification": "Approved",
         "score": 8.1
     },
     {
@@ -1636,7 +1636,7 @@
         "year": 2009,
         "duration": 92,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNzY2Mjc4NjMtNGY4Mi00NzM5LTk3ZTQtN2VkNzVkMzRmM2Y2XkEyXkFqcGc@._V1_QL75_UY207_CR3,0,140,207_.jpg",
-        "classification": "1h 32m",
+        "classification": "Not Rated",
         "score": 8.1
     },
     {
@@ -1644,7 +1644,7 @@
         "year": 1953,
         "duration": 131,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZDdkNzMwZmUtY2Q5MS00ZmM2LWJhYjItYTBjMWY0MGM4MDRjXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_QL75_UY207_CR1,0,140,207_.jpg",
-        "classification": "2h 11m",
+        "classification": "Not Rated",
         "score": 8.1
     },
     {
@@ -1652,7 +1652,7 @@
         "year": 1949,
         "duration": 93,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYTc1YmM5ZjItZTE0Yy00MjYyLWFhODYtYmY2Y2U0MTViMWVhXkEyXkFqcGdeQXVyMTA1NTM1NDI2._V1_QL75_UX140_CR0,5,140,207_.jpg",
-        "classification": "1h 33m",
+        "classification": "Approved",
         "score": 8.1
     },
     {
@@ -1660,7 +1660,7 @@
         "year": 1957,
         "duration": 92,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYWQxYzdhMDMtNjAyZC00NzE0LWFjYmQtYjk0YzMyYjA5NzZkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "1h 32m",
+        "classification": "Not Rated",
         "score": 8.1
     },
     {
@@ -1668,7 +1668,7 @@
         "year": 2019,
         "duration": 152,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYzcyZDNlNDktOWRhYy00ODQ5LTg1ODQtZmFmZTIyMjg2Yjk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 32m",
+        "classification": "PG-13",
         "score": 8.1
     },
     {
@@ -1676,7 +1676,7 @@
         "year": 1939,
         "duration": 129,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZTYwYjYxYzgtMDE1Ni00NzU4LWJlMTEtODQ5YmJmMGJhZjI5L2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_QL75_UX140_CR0,2,140,207_.jpg",
-        "classification": "2h 9m",
+        "classification": "Approved",
         "score": 8.1
     },
     {
@@ -1684,7 +1684,7 @@
         "year": 1953,
         "duration": 136,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BM2E1ZmZlMDQtMDgzNi00MGVmLTgwMWMtYTc1MjkzOWJmOGIxXkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_QL75_UY207_CR3,0,140,207_.jpg",
-        "classification": "2h 16m",
+        "classification": "Not Rated",
         "score": 8.1
     },
     {
@@ -1692,7 +1692,7 @@
         "year": 2017,
         "duration": 137,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 17m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1700,7 +1700,7 @@
         "year": 1976,
         "duration": null,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNTBkMjg2MjYtYTZjOS00ODQ0LTg0MDEtM2FiNmJmOGU1NGEwXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "2h",
+        "classification": "PG",
         "score": 8.1
     },
     {
@@ -1708,7 +1708,7 @@
         "year": 1998,
         "duration": 117,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMzliZDk0NjctNjhlOC00MWEyLWI3OWYtNjA5ZDYxMTMzNTc5XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "1h 57m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1716,7 +1716,7 @@
         "year": 1957,
         "duration": 96,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOWM3MmE0OGYtOGVlNC00OWE1LTk5ZTAtYmUwMDIwM2ZlNWJiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UY207_CR1,0,140,207_.jpg",
-        "classification": "1h 36m",
+        "classification": "Not Rated",
         "score": 8.1
     },
     {
@@ -1724,7 +1724,7 @@
         "year": 2015,
         "duration": 118,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjE4NzgzNzEwMl5BMl5BanBnXkFtZTgwMTMzMDE0NjE@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 58m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1732,7 +1732,7 @@
         "year": 2015,
         "duration": 129,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMjIyOTM5OTIzNV5BMl5BanBnXkFtZTgwMDkzODE2NjE@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "2h 9m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1740,7 +1740,7 @@
         "year": 1984,
         "duration": 107,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 47m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1748,7 +1748,7 @@
         "year": 2004,
         "duration": 121,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BZGJjYmIzZmQtNWE4Yy00ZGVmLWJkZGEtMzUzNmQ4ZWFlMjRhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "2h 1m",
+        "classification": "PG-13",
         "score": 8.1
     },
     {
@@ -1756,7 +1756,7 @@
         "year": 1986,
         "duration": null,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMzRjZjdlMjQtODVkYS00N2YzLWJlYWYtMGVlN2E5MWEwMWQzXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,6,140,207_.jpg",
-        "classification": "2h",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1764,7 +1764,7 @@
         "year": 1995,
         "duration": 98,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BOTQxOGU0OWUtMzExYy00ZjIxLWJmMzAtNTI1Y2YxYTMxN2RkXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 38m",
+        "classification": "Not Rated",
         "score": 8.1
     },
     {
@@ -1772,7 +1772,7 @@
         "year": 2003,
         "duration": 143,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNGYyZGM5MGMtYTY2Ni00M2Y1LWIzNjQtYWUzM2VlNGVhMDNhXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 23m",
+        "classification": "PG-13",
         "score": 8.1
     },
     {
@@ -1780,7 +1780,7 @@
         "year": 2004,
         "duration": 80,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BMTQ1MjAwNTM5Ml5BMl5BanBnXkFtZTYwNDM0MTc3._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "1h 20m",
+        "classification": "R",
         "score": 8.1
     },
     {
@@ -1788,7 +1788,7 @@
         "year": 1928,
         "duration": 114,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNjBjNDJiYTUtOWY0OS00OGVmLTg2YzctMTE0NzVhODM1ZWJmXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,6,140,207_.jpg",
-        "classification": "1h 54m",
+        "classification": "Passed",
         "score": 8.1
     },
     {
@@ -1796,207 +1796,7 @@
         "year": 2021,
         "duration": 164,
         "poster_url": "https://m.media-amazon.com/images/M/MV5BNzFkM2FhMzQtYjUwZi00N2Y3LWFkZWItMmZmMjQxNGQwZmNhXkEyXkFqcGdeQXVyODEyNjEwMDk@._V1_QL75_UY207_CR13,0,140,207_.jpg",
-        "classification": "2h 44m",
+        "classification": "Approved",
         "score": 8.7
-    },
-    {
-        "title": "The Best Years of Our Lives",
-        "year": 1946,
-        "duration": 170,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BY2RmNTRjYzctODI4Ni00MzQyLWEyNTAtNjU0N2JkMTNhNjJkXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 50m",
-        "score": 8.1
-    },
-    {
-        "title": "The Exorcist",
-        "year": 1973,
-        "duration": 122,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BYWFlZGY2NDktY2ZjOS00ZWNkLTg0ZDAtZDY4MTM1ODU4ZjljXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "2h 2m",
-        "score": 8.1
-    },
-    {
-        "title": "Rush",
-        "year": 2013,
-        "duration": 123,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BOWEwODJmZDItYTNmZC00OGM4LThlNDktOTQzZjIzMGQxODA4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 3m",
-        "score": 8.1
-    },
-    {
-        "title": "The Incredibles",
-        "year": 2004,
-        "duration": 115,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 55m",
-        "score": 8.0
-    },
-    {
-        "title": "Network",
-        "year": 1976,
-        "duration": 121,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BNzY0NjU5ODUtOTAzMC00NTU5LWJkZjctYWMyOWY2MTZmOWM1XkEyXkFqcGdeQXVyMTI3ODAyMzE2._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "2h 1m",
-        "score": 8.1
-    },
-    {
-        "title": "The Wizard of Oz",
-        "year": 1939,
-        "duration": 102,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BY2NjNDU1ZjctN2VhZi00Nzc5LTljNmItMTZiOTg1ODkwYjgwXkEyXkFqcGdeQXVyNTkxMzEwMzU@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "1h 42m",
-        "score": 8.1
-    },
-    {
-        "title": "Stand by Me",
-        "year": 1986,
-        "duration": 89,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BODJmY2Y2OGQtMDg2My00N2Q3LWJmZTUtYTc2ODBjZDVlNDlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_QL75_UX140_CR0,6,140,207_.jpg",
-        "classification": "1h 29m",
-        "score": 8.1
-    },
-    {
-        "title": "Hachi: A Dog's Tale",
-        "year": 2009,
-        "duration": 93,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BYmQzYjgyYzEtOTVhZC00MDRkLWJjNjItYzU3N2RiMTExZjA1XkEyXkFqcGdeQXVyMTcwOTQzOTYy._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 33m",
-        "score": 8.1
-    },
-    {
-        "title": "The Sound of Music",
-        "year": 1965,
-        "duration": 172,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BYWJhYmU4MjQtZDJhYi00ZGVjLTlkNTEtNzkzNGVjOWQ3MjcwXkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 52m",
-        "score": 8.1
-    },
-    {
-        "title": "My Father and My Son",
-        "year": 2005,
-        "duration": 112,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BNzEzMWYyYjEtNmVjZS00YTAyLWIyOTgtMzEzNzQxMTQzZTgwXkEyXkFqcGdeQXVyMTA0MTM5NjI2._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 52m",
-        "score": 8.2
-    },
-    {
-        "title": "The Handmaiden",
-        "year": 2016,
-        "duration": 145,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BNDJhYTk2MTctZmVmOS00OTViLTgxNjQtMzQxOTRiMDdmNGRjXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_QL75_UY207_CR2,0,140,207_.jpg",
-        "classification": "2h 25m",
-        "score": 8.1
-    },
-    {
-        "title": "To Be or Not to Be",
-        "year": 1942,
-        "duration": 99,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BYTIwNDcyMjktMTczMy00NDM5LTlhNDEtMmE3NGVjOTM2YjQ3XkEyXkFqcGdeQXVyNjc0MzMzNjA@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 39m",
-        "score": 8.1
-    },
-    {
-        "title": "Into the Wild",
-        "year": 2007,
-        "duration": 148,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BNjQ0ODlhMWUtNmUwMS00YjExLWI4MjQtNjVmMmE2Y2E0MGRmXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_QL75_UY207_CR0,0,140,207_.jpg",
-        "classification": "2h 28m",
-        "score": 8.1
-    },
-    {
-        "title": "The Battle of Algiers",
-        "year": 1966,
-        "duration": 121,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BN2M4YTA4ZTEtN2EyNy00YTlmLWE4YzYtYjYyYjRkMWM4ZDM0XkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,3,140,207_.jpg",
-        "classification": "2h 1m",
-        "score": 8.1
-    },
-    {
-        "title": "The Grapes of Wrath",
-        "year": 1940,
-        "duration": 129,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BNzJiOGI2MjctYjUyMS00ZjkzLWE2ZmUtOTg4NTZkOTNhZDc1L2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 9m",
-        "score": 8.1
-    },
-    {
-        "title": "Groundhog Day",
-        "year": 1993,
-        "duration": 101,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BZWIxNzM5YzQtY2FmMS00Yjc3LWI1ZjUtNGVjMjMzZTIxZTIxXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 41m",
-        "score": 8.0
-    },
-    {
-        "title": "The Iron Giant",
-        "year": 1999,
-        "duration": 86,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BODM4ZjZjMGEtYmFiMy00MThjLWIzZjUtMDU0ODg1NTI2MzIwXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "1h 26m",
-        "score": 8.1
-    },
-    {
-        "title": "Amores Perros",
-        "year": 2000,
-        "duration": 154,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BZjUxNmEwOGItMTBmYi00MWQ1LWExY2MtNDUxMjI0OWM4M2NiXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "2h 34m",
-        "score": 8.0
-    },
-    {
-        "title": "Rebecca",
-        "year": 1940,
-        "duration": 130,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BYTI0MjUyODAtZTBkNC00MmIwLWFlNmYtMWE3ZmJlOWJjM2QyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 10m",
-        "score": 8.1
-    },
-    {
-        "title": "The Help",
-        "year": 2011,
-        "duration": 146,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BMTM5OTMyMjIxOV5BMl5BanBnXkFtZTcwNzU4MjIwNQ@@._V1_QL75_UX140_CR0,0,140,207_.jpg",
-        "classification": "2h 26m",
-        "score": 8.1
-    },
-    {
-        "title": "Cool Hand Luke",
-        "year": 1967,
-        "duration": 127,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BNjcwNTQ3Y2EtMjdmZi00ODBhLWFhNzQtOTc3MWU5NTZlMDViXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_QL75_UX140_CR0,4,140,207_.jpg",
-        "classification": "2h 7m",
-        "score": 8.1
-    },
-    {
-        "title": "It Happened One Night",
-        "year": 1934,
-        "duration": 105,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BMDg5MmEwZjItODllOS00Yjc4LTk3NzItZWY4ODFlODQzZjJlXkEyXkFqcGdeQXVyNjc5NjEzNA@@._V1_QL75_UX140_CR0,1,140,207_.jpg",
-        "classification": "1h 45m",
-        "score": 8.1
-    },
-    {
-        "title": "Paris, Texas",
-        "year": 1984,
-        "duration": 145,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BM2RjMmU3ZWItYzBlMy00ZmJkLWE5YzgtNTVkODdhOWM3NGZhXkEyXkFqcGdeQXVyNDA5Mjg5MjA@._V1_QL75_UX140_CR0,4,140,207_.jpg",
-        "classification": "2h 25m",
-        "score": 8.1
-    },
-    {
-        "title": "Laapataa Ladies",
-        "year": 2023,
-        "duration": 122,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BYTdkOTlkNzctNDE2MS00ZTUyLThhZjUtYTdiZGM4MWU3ZjQzXkEyXkFqcGdeQXVyMTM1Njk1MDUx._V1_QL75_UY207_CR13,0,140,207_.jpg",
-        "classification": "2h 2m",
-        "score": 8.4
-    },
-    {
-        "title": "Aladdin",
-        "year": 1992,
-        "duration": 90,
-        "poster_url": "https://m.media-amazon.com/images/M/MV5BMmQwYWZjZGItYzc0OC00ZDllLTg3NjItOWIyOWYwMDljMjAyXkEyXkFqcGc@._V1_QL75_UX140_CR0,5,140,207_.jpg",
-        "classification": "1h 30m",
-        "score": 8.0
     }
 ]
