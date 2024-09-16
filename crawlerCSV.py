@@ -2,8 +2,8 @@ import os
 import csv
 from bs4 import BeautifulSoup
 
-html = 'html_pages'
-csvFile= 'countries_data.csv'
+html = 'html_pages' # input
+csvFile= 'countries_data.csv' #output
 
 
 def extrairCidade(file_path):
