@@ -1,2 +1,251 @@
 Country,Capital,Currency Name,Continent,Timestamp
-Barbados,Bridgetown,Dollar,North America,2024-09-18 10:31:55
+Saint Kitts and Nevis,Basseterre,Dollar,North America,2024-09-25 11:08:38
+Kyrgyzstan,Bishkek,Som,Asia,2024-09-25 11:08:38
+United Arab Emirates,Abu Dhabi,Dirham,Asia,2024-09-25 11:08:39
+Honduras,Tegucigalpa,Lempira,North America,2024-09-25 11:08:39
+Russia,Moscow,Ruble,Europe,2024-09-25 11:08:39
+Azerbaijan,Baku,Manat,Asia,2024-09-25 11:08:39
+Cameroon,Yaounde,Franc,Africa,2024-09-25 11:08:39
+Jordan,Amman,Dinar,Asia,2024-09-25 11:08:39
+Guadeloupe,Basse-Terre,Euro,North America,2024-09-25 11:08:39
+Singapore,Singapur,Dollar,Asia,2024-09-25 11:08:39
+Colombia,Bogota,Dollar,South America,2024-09-25 11:08:39
+Uruguay,Montevideo,Peso,South America,2024-09-25 11:08:39
+Norway,Oslo,Krone,Europe,2024-09-25 11:08:39
+Japan,Tokyo,Yen,Asia,2024-09-25 11:08:39
+Kiribati,Tarawa,Dollar,Oceania,2024-09-25 11:08:39
+Turkey,Ankara,Lira,Asia,2024-09-25 11:08:39
+Eritrea,Asmara,Nakfa,Africa,2024-09-25 11:08:39
+Chad,N'Djamena,Franc,Africa,2024-09-25 11:08:39
+Guatemala,Guatemala City,Quetzal,North America,2024-09-25 11:08:39
+Bermuda,Hamilton,Dollar,North America,2024-09-25 11:08:39
+Kosovo,Pristina,Euro,Europe,2024-09-25 11:08:39
+Peru,Lima,Sol,South America,2024-09-25 11:08:39
+Belgium,Brussels,Euro,Europe,2024-09-25 11:08:39
+Isle of Man,"Douglas, Isle of Man",Pound,Europe,2024-09-25 11:08:39
+Egypt,Cairo,Pound,Africa,2024-09-25 11:08:39
+Seychelles,Victoria,Rupee,Africa,2024-09-25 11:08:39
+Taiwan,Taipei,Dollar,Asia,2024-09-25 11:08:39
+East Timor,Dili,Dollar,Oceania,2024-09-25 11:08:39
+Tajikistan,Dushanbe,Somoni,Asia,2024-09-25 11:08:39
+Argentina,Buenos Aires,Peso,South America,2024-09-25 11:08:39
+United States Minor Outlying Islands,,Dollar,Oceania,2024-09-25 11:08:39
+Mayotte,Mamoudzou,Euro,Africa,2024-09-25 11:08:39
+Mozambique,Maputo,Metical,Africa,2024-09-25 11:08:39
+Afghanistan,Kabul,Afghani,Asia,2024-09-25 11:08:39
+Armenia,Yerevan,Dram,Asia,2024-09-25 11:08:39
+Gambia,Banjul,Dalasi,Africa,2024-09-25 11:08:39
+Bolivia,Sucre,Boliviano,South America,2024-09-25 11:08:39
+Albania,Tirana,Lek,Europe,2024-09-25 11:08:39
+Senegal,Dakar,Franc,Africa,2024-09-25 11:08:39
+Mali,Bamako,Franc,Africa,2024-09-25 11:08:39
+Mongolia,Ulan Bator,Tugrik,Asia,2024-09-25 11:08:39
+Papua New Guinea,Port Moresby,Kina,Oceania,2024-09-25 11:08:39
+United Kingdom,London,Pound,Europe,2024-09-25 11:08:39
+Sweden,Stockholm,Krona,Europe,2024-09-25 11:08:39
+Liechtenstein,Vaduz,Franc,Europe,2024-09-25 11:08:39
+Brunei,Bandar Seri Begawan,Dollar,Asia,2024-09-25 11:08:39
+Georgia,Tbilisi,Lari,Asia,2024-09-25 11:08:39
+Mauritania,Nouakchott,Ouguiya,Africa,2024-09-25 11:08:39
+Slovenia,Ljubljana,Euro,Europe,2024-09-25 11:08:39
+Kuwait,Kuwait City,Dinar,Asia,2024-09-25 11:08:39
+Pakistan,Islamabad,Rupee,Asia,2024-09-25 11:08:39
+Austria,Vienna,Euro,Europe,2024-09-25 11:08:39
+Netherlands Antilles,Willemstad,Guilder,North America,2024-09-25 11:08:39
+Vietnam,Hanoi,Dong,Asia,2024-09-25 11:08:39
+Namibia,Windhoek,Dollar,Africa,2024-09-25 11:08:39
+Luxembourg,Luxembourg,Euro,Europe,2024-09-25 11:08:39
+Dominica,Roseau,Dollar,North America,2024-09-25 11:08:39
+Thailand,Bangkok,Baht,Asia,2024-09-25 11:08:39
+Montserrat,Plymouth,Dollar,North America,2024-09-25 11:08:39
+Cambodia,Phnom Penh,Riels,Asia,2024-09-25 11:08:39
+Saint Pierre and Miquelon,Saint-Pierre,Euro,North America,2024-09-25 11:08:39
+Togo,Lome,Franc,Africa,2024-09-25 11:08:39
+Bulgaria,Sofia,Lev,Europe,2024-09-25 11:08:39
+South Sudan,Juba,Pound,Africa,2024-09-25 11:08:39
+Libya,Tripolis,Dinar,Africa,2024-09-25 11:08:39
+Hungary,Budapest,Forint,Europe,2024-09-25 11:08:39
+Malta,Valletta,Euro,Europe,2024-09-25 11:08:39
+Republic of the Congo,Brazzaville,Franc,Africa,2024-09-25 11:08:39
+Benin,Porto-Novo,Franc,Africa,2024-09-25 11:08:39
+Bosnia and Herzegovina,Sarajevo,Marka,Europe,2024-09-25 11:08:39
+New Caledonia,Noumea,Franc,Oceania,2024-09-25 11:08:39
+Iran,Tehran,Rial,Asia,2024-09-25 11:08:39
+Belize,Belmopan,Dollar,North America,2024-09-25 11:08:39
+Iraq,Baghdad,Dinar,Asia,2024-09-25 11:08:39
+Anguilla,The Valley,Dollar,North America,2024-09-25 11:08:39
+Canada,Ottawa,Dollar,North America,2024-09-25 11:08:39
+Saint Vincent and the Grenadines,Kingstown,Dollar,North America,2024-09-25 11:08:39
+Andorra,Andorra la Vella,Euro,Europe,2024-09-25 11:08:39
+Norfolk Island,Kingston,Dollar,Oceania,2024-09-25 11:08:39
+Botswana,Gaborone,Pula,Africa,2024-09-25 11:08:39
+Saint Lucia,Castries,Dollar,North America,2024-09-25 11:08:39
+Finland,Helsinki,Euro,Europe,2024-09-25 11:08:39
+Northern Mariana Islands,Saipan,Dollar,Oceania,2024-09-25 11:08:39
+Nigeria,Abuja,Naira,Africa,2024-09-25 11:08:39
+Sudan,Khartoum,Pound,Africa,2024-09-25 11:08:39
+Niger,Niamey,Franc,Africa,2024-09-25 11:08:39
+Uzbekistan,Tashkent,Som,Asia,2024-09-25 11:08:39
+Algeria,Algiers,Dinar,Africa,2024-09-25 11:08:39
+Kazakhstan,Astana,Tenge,Asia,2024-09-25 11:08:39
+Nauru,Yaren,Dollar,Oceania,2024-09-25 11:08:39
+Equatorial Guinea,Malabo,Franc,Africa,2024-09-25 11:08:39
+Monaco,Monaco,Euro,Europe,2024-09-25 11:08:39
+Christmas Island,Flying Fish Cove,Dollar,Asia,2024-09-25 11:08:39
+Lebanon,Beirut,Pound,Asia,2024-09-25 11:08:39
+Italy,Rome,Euro,Europe,2024-09-25 11:08:39
+Samoa,Apia,Tala,Oceania,2024-09-25 11:08:39
+Cayman Islands,George Town,Dollar,North America,2024-09-25 11:08:39
+American Samoa,Pago Pago,Dollar,Oceania,2024-09-25 11:08:39
+Turkmenistan,Ashgabat,Manat,Asia,2024-09-25 11:08:39
+Antarctica,,,Antarctica,2024-09-25 11:08:39
+Myanmar,Nay Pyi Taw,Kyat,Asia,2024-09-25 11:08:39
+Central African Republic,Bangui,Franc,Africa,2024-09-25 11:08:39
+Romania,Bucharest,Leu,Europe,2024-09-25 11:08:39
+Wallis and Futuna,Mata Utu,Franc,Oceania,2024-09-25 11:08:39
+Slovakia,Bratislava,Euro,Europe,2024-09-25 11:08:39
+New Zealand,Wellington,Dollar,Oceania,2024-09-25 11:08:39
+Maldives,Male,Rufiyaa,Asia,2024-09-25 11:08:39
+Philippines,Manila,Peso,Asia,2024-09-25 11:08:39
+Saint Helena,Jamestown,Pound,Africa,2024-09-25 11:08:39
+United States,Washington,Dollar,North America,2024-09-25 11:08:39
+Martinique,Fort-de-France,Euro,North America,2024-09-25 11:08:39
+Somalia,Mogadishu,Shilling,Africa,2024-09-25 11:08:39
+Croatia,Zagreb,Kuna,Europe,2024-09-25 11:08:39
+Puerto Rico,San Juan,Dollar,North America,2024-09-25 11:08:39
+Svalbard and Jan Mayen,Longyearbyen,Krone,Europe,2024-09-25 11:08:39
+French Guiana,Cayenne,Euro,South America,2024-09-25 11:08:39
+Bhutan,Thimphu,Ngultrum,Asia,2024-09-25 11:08:39
+Ecuador,Quito,Dollar,South America,2024-09-25 11:08:39
+Rwanda,Kigali,Franc,Africa,2024-09-25 11:08:39
+Turks and Caicos Islands,Cockburn Town,Dollar,North America,2024-09-25 11:08:39
+Burkina Faso,Ouagadougou,Franc,Africa,2024-09-25 11:08:39
+Solomon Islands,Honiara,Dollar,Oceania,2024-09-25 11:08:39
+Bouvet Island,,Krone,Antarctica,2024-09-25 11:08:39
+San Marino,San Marino,Euro,Europe,2024-09-25 11:08:39
+Nicaragua,Managua,Cordoba,North America,2024-09-25 11:08:39
+Sint Maarten,Philipsburg,Guilder,North America,2024-09-25 11:08:39
+Guam,Hagatna,Dollar,Oceania,2024-09-25 11:08:39
+Guernsey,St Peter Port,Pound,Europe,2024-09-25 11:08:39
+Ukraine,Kiev,Hryvnia,Europe,2024-09-25 11:08:39
+Jamaica,Kingston,Dollar,North America,2024-09-25 11:08:39
+Vanuatu,Port Vila,Vatu,Oceania,2024-09-25 11:08:39
+Czech Republic,Prague,Koruna,Europe,2024-09-25 11:08:39
+Ghana,Accra,Cedi,Africa,2024-09-25 11:08:39
+Laos,Vientiane,Kip,Asia,2024-09-25 11:08:39
+Saint Barthelemy,Gustavia,Euro,North America,2024-09-25 11:08:39
+Palestinian Territory,East Jerusalem,Shekel,Asia,2024-09-25 11:08:39
+Lesotho,Maseru,Loti,Africa,2024-09-25 11:08:39
+Greenland,Nuuk,Krone,North America,2024-09-25 11:08:39
+Tuvalu,Funafuti,Dollar,Oceania,2024-09-25 11:08:39
+Cook Islands,Avarua,Dollar,Oceania,2024-09-25 11:08:39
+Aland Islands,Mariehamn,Euro,Europe,2024-09-25 11:08:39
+Liberia,Monrovia,Dollar,Africa,2024-09-25 11:08:39
+Israel,Jerusalem,Shekel,Asia,2024-09-25 11:08:39
+Tonga,Nuku'alofa,Pa'anga,Oceania,2024-09-25 11:08:39
+Vatican,Vatican City,Euro,Europe,2024-09-25 11:08:39
+Panama,Panama City,Balboa,North America,2024-09-25 11:08:39
+Grenada,St. George's,Dollar,North America,2024-09-25 11:08:39
+Oman,Muscat,Rial,Asia,2024-09-25 11:08:39
+Cocos Islands,West Island,Dollar,Asia,2024-09-25 11:08:39
+Indonesia,Jakarta,Rupiah,Asia,2024-09-25 11:08:39
+Aruba,Oranjestad,Guilder,North America,2024-09-25 11:08:39
+Paraguay,Asuncion,Guarani,South America,2024-09-25 11:08:39
+Bahamas,Nassau,Dollar,North America,2024-09-25 11:08:39
+Niue,Alofi,Dollar,Oceania,2024-09-25 11:08:39
+Djibouti,Djibouti,Franc,Africa,2024-09-25 11:08:39
+North Korea,Pyongyang,Won,Asia,2024-09-25 11:08:39
+Belarus,Minsk,Ruble,Europe,2024-09-25 11:08:39
+Micronesia,Palikir,Dollar,Oceania,2024-09-25 11:08:39
+Sao Tome and Principe,Sao Tome,Dobra,Africa,2024-09-25 11:08:39
+Tanzania,Dodoma,Shilling,Africa,2024-09-25 11:08:39
+Lithuania,Vilnius,Litas,Europe,2024-09-25 11:08:39
+India,New Delhi,Rupee,Asia,2024-09-25 11:08:39
+Sierra Leone,Freetown,Leone,Africa,2024-09-25 11:08:39
+Saudi Arabia,Riyadh,Rial,Asia,2024-09-25 11:08:39
+Swaziland,Mbabane,Lilangeni,Africa,2024-09-25 11:08:39
+Syria,Damascus,Pound,Asia,2024-09-25 11:08:39
+Ivory Coast,Yamoussoukro,Franc,Africa,2024-09-25 11:08:39
+Denmark,Copenhagen,Krone,Europe,2024-09-25 11:08:39
+Jersey,Saint Helier,Pound,Europe,2024-09-25 11:08:39
+El Salvador,San Salvador,Dollar,North America,2024-09-25 11:08:39
+Iceland,Reykjavik,Krona,Europe,2024-09-25 11:08:39
+U.S. Virgin Islands,Charlotte Amalie,Dollar,North America,2024-09-25 11:08:39
+Qatar,Doha,Rial,Asia,2024-09-25 11:08:39
+South Korea,Seoul,Won,Asia,2024-09-25 11:08:39
+Reunion,Saint-Denis,Euro,Africa,2024-09-25 11:08:39
+Faroe Islands,Torshavn,Krone,Europe,2024-09-25 11:08:39
+Western Sahara,El-Aaiun,Dirham,Africa,2024-09-25 11:08:39
+Macedonia,Skopje,Denar,Europe,2024-09-25 11:08:39
+Nepal,Kathmandu,Rupee,Asia,2024-09-25 11:08:39
+Marshall Islands,Majuro,Dollar,Oceania,2024-09-25 11:08:39
+Democratic Republic of the Congo,Kinshasa,Franc,Africa,2024-09-25 11:08:39
+Bahrain,Manama,Dinar,Asia,2024-09-25 11:08:39
+British Virgin Islands,Road Town,Dollar,North America,2024-09-25 11:08:39
+Suriname,Paramaribo,Dollar,South America,2024-09-25 11:08:39
+Falkland Islands,Stanley,Pound,South America,2024-09-25 11:08:39
+Mexico,Mexico City,Peso,North America,2024-09-25 11:08:39
+Chile,Santiago,Peso,South America,2024-09-25 11:08:39
+Netherlands,Amsterdam,Euro,Europe,2024-09-25 11:08:39
+Latvia,Riga,Euro,Europe,2024-09-25 11:08:39
+Angola,Luanda,Kwanza,Africa,2024-09-25 11:08:39
+Costa Rica,San Jose,Colon,North America,2024-09-25 11:08:39
+Heard Island and McDonald Islands,,Dollar,Antarctica,2024-09-25 11:08:39
+Palau,Melekeok,Dollar,Oceania,2024-09-25 11:08:39
+French Polynesia,Papeete,Franc,Oceania,2024-09-25 11:08:39
+Poland,Warsaw,Zloty,Europe,2024-09-25 11:08:39
+Morocco,Rabat,Dirham,Africa,2024-09-25 11:08:39
+Fiji,Suva,Dollar,Oceania,2024-09-25 11:08:39
+Malaysia,Kuala Lumpur,Ringgit,Asia,2024-09-25 11:08:39
+Macao,Macao,Pataca,Asia,2024-09-25 11:08:39
+Australia,Canberra,Dollar,Oceania,2024-09-25 11:08:39
+Bangladesh,Dhaka,Taka,Asia,2024-09-25 11:08:39
+France,Paris,Euro,Europe,2024-09-25 11:08:39
+Curacao,Willemstad,Guilder,North America,2024-09-25 11:08:39
+Serbia,Belgrade,Dinar,Europe,2024-09-25 11:08:39
+Ethiopia,Addis Ababa,Birr,Africa,2024-09-25 11:08:39
+Serbia and Montenegro,Belgrade,Dinar,Europe,2024-09-25 11:08:39
+Madagascar,Antananarivo,Ariary,Africa,2024-09-25 11:08:39
+Guinea,Conakry,Franc,Africa,2024-09-25 11:08:39
+Cape Verde,Praia,Escudo,Africa,2024-09-25 11:08:39
+Comoros,Moroni,Franc,Africa,2024-09-25 11:08:39
+Hong Kong,Hong Kong,Dollar,Asia,2024-09-25 11:08:39
+Montenegro,Podgorica,Euro,Europe,2024-09-25 11:08:39
+Yemen,Sanaa,Rial,Asia,2024-09-25 11:08:39
+Ireland,Dublin,Euro,Europe,2024-09-25 11:08:39
+Malawi,Lilongwe,Kwacha,Africa,2024-09-25 11:08:39
+Burundi,Bujumbura,Franc,Africa,2024-09-25 11:08:39
+Sri Lanka,Colombo,Rupee,Asia,2024-09-25 11:08:39
+Moldova,Chisinau,Leu,Europe,2024-09-25 11:08:39
+Gibraltar,Gibraltar,Pound,Europe,2024-09-25 11:08:39
+Uganda,Kampala,Shilling,Africa,2024-09-25 11:08:39
+Brazil,Brasilia,Real,South America,2024-09-25 11:08:39
+Germany,Berlin,Euro,Europe,2024-09-25 11:08:39
+Trinidad and Tobago,Port of Spain,Dollar,North America,2024-09-25 11:08:39
+Saint Martin,Marigot,Euro,North America,2024-09-25 11:08:39
+Kenya,Nairobi,Shilling,Africa,2024-09-25 11:08:39
+Venezuela,Caracas,Bolivar,South America,2024-09-25 11:08:39
+Pitcairn,Adamstown,Dollar,Oceania,2024-09-25 11:08:39
+South Georgia and the South Sandwich Islands,Grytviken,Pound,Antarctica,2024-09-25 11:08:39
+Mauritius,Port Louis,Rupee,Africa,2024-09-25 11:08:39
+Spain,Madrid,Euro,Europe,2024-09-25 11:08:39
+Gabon,Libreville,Franc,Africa,2024-09-25 11:08:39
+Switzerland,Berne,Franc,Europe,2024-09-25 11:08:39
+Cuba,Havana,Peso,North America,2024-09-25 11:08:39
+French Southern Territories,Port-aux-Francais,Euro,Antarctica,2024-09-25 11:08:39
+Cyprus,Nicosia,Euro,Europe,2024-09-25 11:08:39
+Dominican Republic,Santo Domingo,Peso,North America,2024-09-25 11:08:39
+Greece,Athens,Euro,Europe,2024-09-25 11:08:39
+China,Beijing,Yuan Renminbi,Asia,2024-09-25 11:08:39
+Tunisia,Tunis,Dinar,Africa,2024-09-25 11:08:39
+Haiti,Port-au-Prince,Gourde,North America,2024-09-25 11:08:39
+British Indian Ocean Territory,Diego Garcia,Dollar,Asia,2024-09-25 11:08:39
+Guinea-Bissau,Bissau,Franc,Africa,2024-09-25 11:08:39
+Antigua and Barbuda,St. John's,Dollar,North America,2024-09-25 11:08:39
+Tokelau,,Dollar,Oceania,2024-09-25 11:08:39
+South Africa,Pretoria,Rand,Africa,2024-09-25 11:08:39
+Portugal,Lisbon,Euro,Europe,2024-09-25 11:08:39
+Estonia,Tallinn,Euro,Europe,2024-09-25 11:08:39
+"Bonaire, Saint Eustatius and Saba",,Dollar,North America,2024-09-25 11:08:39
+Guyana,Georgetown,Dollar,South America,2024-09-25 11:08:39
+Barbados,Bridgetown,Dollar,North America,2024-09-25 11:08:39
